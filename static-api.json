@@ -33,5 +33,25 @@
     "nama": "tas",
     "harga": "180Ribu",
     "imageId": "gambar-tas"
+  },
+  {
+    "nama": "koper",
+    "harga": "180Ribu",
+    "imageId": "gambar-koper"
+  },
+  {
+    "nama": "kipasAngin",
+    "harga": "180Ribu",
+    "imageId": "gambar-kipasangin"
+  },
+  {
+    "nama": "lemariBaju",
+    "harga": "180Ribu",
+    "imageId": "gambar-lemaribaju"
+  },
+  {
+    "nama": "dispenser",
+    "harga": "180Ribu",
+    "imageId": "gambar-dispenser"
   }
 ]
