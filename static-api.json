@@ -28,5 +28,10 @@
     "nama": "StopKontak",
     "harga": "30Ribu",
     "imageId": "gambar-stopkontak"
+  },
+  {
+    "nama": "tas",
+    "harga": "180Ribu",
+    "imageId": "gambar-tas"
   }
 ]
